@@ -9,7 +9,7 @@ There are a variety of methods and models to be used as stock market prediction 
 
 ## 2. Prediction Models
 
-To predict volatility of the stock price, I will build ARIMA and GARCH model, then combine them together, and apply for the (monthly) price change and the percentage returns of a stock of a Vietnamese company. The full code to all the steps and models can be found in this repository.
+To predict volatility of the stock price, I will build ARIMA and GARCH model, combine them together, then apply for the (monthly) price change and the percentage returns of a stock of a Vietnamese company. The full code to all the steps and models can be found in this repository.
 
 Result:
 
